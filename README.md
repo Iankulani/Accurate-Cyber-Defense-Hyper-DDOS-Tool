@@ -1,5 +1,8 @@
 # Accurate-Cyber-Defense-Hyper-DDOS-Tool
 
+<img width="1536" height="400" alt="hyperrr" src="https://github.com/user-attachments/assets/4feabfcd-9897-45a7-9c20-a92f3cec0566" />
+
+
 Accurate-Cyber-Defense-Hyper-DDOS-Tool is a traffic generation utility that simulates large-scale distributed denial of service conditions to evaluate infrastructure resilience.
 
 Designed for controlled testing, it produces configurable traffic patterns, connection rates, and payload variations to stress network stacks, firewalls, load balancers, and intrusion detection systems. 
