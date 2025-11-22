@@ -10,13 +10,16 @@ Engineers and security teams can reproduce real-world attack scenarios, validate
 The tool emphasizes safe lab use, clear documentation, extensible modules for custom protocols, and audit logging features. 
 Use only on authorized systems and within legal boundaries. Contributors must follow repository guidelines, practice responsible disclosure, maintain secure coding.
 
-**How to clone the repo**
-
+## How to clone the repo
+```bash
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Hyper-DDOS-Tool.git
 
 cd Accurate-Cyber-Defense-Hyper-DDOS-Tool
+```
 
-**How to run**
+## How to run
+
+```bash
 
 python3 Accurate-Cyber-Defense-Hyper-DDOS-Tool.py  
-
+```
